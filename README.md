@@ -1,3 +1,4 @@
 # ejTroubleReader
-A small project just to test and play around with
-written in c#
+A small project written in c# just to test and play around with.
+
+
